@@ -1,6 +1,6 @@
-#John Bain
+#Kavilan Naidoo
 #Variable improvement exercise
-#05-09-12
+#12-09-2014
 
 import math
 
